@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tetris - Arcade Clásico</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="icono/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">Arcade Clásico</a></h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="serpiente.html">Serpiente</a></li>
+                <li class="active"><a href="tetris.html">Tetris</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="juego-tetris">
+            <h2>Tetris</h2>
+            <canvas id="tetrisCanvas" width="240" height="400"></canvas>
+            <div class="controles">
+                <p>Puntuación: <span id="puntuacionTetris">0</span></p>
+                <p>Usa las flechas del teclado para mover y rotar las piezas.</p>
+            </div>
+        </section>
+        <div class="slider-contenedor">
+            <div class="slider">
+                <div class="slide">
+                    <img src="Imagenes/kinkon.jpg" alt="">
+                </div>
+                <div class="slide">
+                    <img src="Imagenes/gif mario 1.gif" alt="">
+                </div>
+                <div class="slide">
+                    <img src="Imagenes/nintendo.png" alt="">
+                </div>
+                <div class="slide">
+                    <img src="Imagenes/mario kart.avif" alt="">
+                </div>
+                <div class="slide">
+                    <img src="Imagenes/gif mario 64.gif" alt="">
+                </div>
+                <div class="slide">
+                    <img src="Imagenes/pac-man.jpg" alt="">
+                </div>
+                <div class="slide">
+                    <img src="Imagenes/zelda.avif" alt="">
+                </div>
+                <div class="slide">
+                    <img src="Imagenes/gif mario y luigui.gif" alt="">
+                </div>
+                <div class="slide">
+                    <img src="Imagenes/smar bros.jpg" alt="">
+                </div>
+                </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Mi Arcade Clásico</p>
+    </footer>
+    <script src="script.js"></script>
+    <script src="tetris.js"></script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\bin\Debug\Calculadora de Figuras Geométricas.exe.config
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\bin\Debug\Calculadora de Figuras Geométricas.exe
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\bin\Debug\Calculadora de Figuras Geométricas.pdb
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.csproj.AssemblyReference.cache
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\obj\Debug\Calculadora_de_Figuras_Geométricas.Form1.resources
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\obj\Debug\Calculadora_de_Figuras_Geométricas.Properties.Resources.resources
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.csproj.GenerateResource.cache
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.csproj.CoreCompileInputs.cache
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.exe
+C:\Users\jose linares\Desktop\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.pdb
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\bin\Debug\Calculadora de Figuras Geométricas.exe.config
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\bin\Debug\Calculadora de Figuras Geométricas.exe
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\bin\Debug\Calculadora de Figuras Geométricas.pdb
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.csproj.AssemblyReference.cache
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\obj\Debug\Calculadora_de_Figuras_Geométricas.Form1.resources
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\obj\Debug\Calculadora_de_Figuras_Geométricas.Properties.Resources.resources
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.csproj.GenerateResource.cache
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.csproj.CoreCompileInputs.cache
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.exe
+C:\Users\jose linares\Desktop\C#\Calculadora de Figuras Geométricas\obj\Debug\Calculadora de Figuras Geométricas.pdb

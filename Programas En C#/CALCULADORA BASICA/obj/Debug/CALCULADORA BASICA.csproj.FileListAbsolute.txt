@@ -1,0 +1,25 @@
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\bin\Debug\CALCULADORA BASICA.exe.config
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\bin\Debug\CALCULADORA BASICA.exe
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\bin\Debug\CALCULADORA BASICA.pdb
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.csproj.AssemblyReference.cache
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\obj\Debug\CALCULADORA_BASICA.Form1.resources
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\obj\Debug\CALCULADORA_BASICA.Properties.Resources.resources
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.csproj.GenerateResource.cache
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.csproj.CoreCompileInputs.cache
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.exe
+C:\Users\jose linares\Desktop\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.pdb
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\bin\Debug\CALCULADORA BASICA.exe.config
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\bin\Debug\CALCULADORA BASICA.exe
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\bin\Debug\CALCULADORA BASICA.pdb
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.csproj.AssemblyReference.cache
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA_BASICA.Form1.resources
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA_BASICA.MDIParent2.resources
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA_BASICA.Properties.Resources.resources
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.csproj.GenerateResource.cache
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.csproj.CoreCompileInputs.cache
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.exe
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.pdb
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\bin\Debug\Calculadora de Figuras Geométricas.exe
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\bin\Debug\Calculadora de Figuras Geométricas.pdb
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\bin\Debug\Calculadora de Figuras Geométricas.exe.config
+C:\Users\jose linares\Desktop\C#\CALCULADORA BASICA\obj\Debug\CALCULADORA BASICA.csproj.CopyComplete
